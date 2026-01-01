@@ -1,0 +1,9 @@
+
+{
+  "name": "Multi-Device Demo Platform",
+  "description": "A professional demo environment featuring a simulated iPad (4:3) and iPhone (9:19.5) for cross-device interaction testing and Gemini-powered feature demonstrations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
